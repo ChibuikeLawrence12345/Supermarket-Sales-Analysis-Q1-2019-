@@ -69,6 +69,6 @@ supermarket-sales-analysis/
 
 ## Project Links
 
-- 📊 [Interactive Power BI Dashboard](https://app.powerbi.com/links/ekYw6TeEU1?ctid=47d41471-806d-482c-8d78-5451c5f2cbd5&pbi_source=linkShare)  
-- 📁 [Excel Data File](https://1drv.ms/x/c/e1781590a66dcd43/EW0huXw_s9dNntqoIoGSEXcBiV9FotwW8QvDIXOCrTCKgw?e=eWXYWj&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)    
-
+- [Interactive Power BI Dashboard](https://app.powerbi.com/links/ekYw6TeEU1?ctid=47d41471-806d-482c-8d78-5451c5f2cbd5&pbi_source=linkShare)  
+- [Excel Data File](https://1drv.ms/x/c/e1781590a66dcd43/EW0huXw_s9dNntqoIoGSEXcBiV9FotwW8QvDIXOCrTCKgw?e=eWXYWj&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)    
+- [Visuals/Charts](https://drive.google.com/drive/folders/1NdGgWc8J6n9fVjZZmmMhK7lARYIoeWqA?usp=drive_link)
