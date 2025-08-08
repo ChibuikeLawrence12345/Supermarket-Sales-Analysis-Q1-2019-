@@ -11,7 +11,7 @@ This project analyzes supermarket sales data from January to March 2019 across t
 
 
 
-## 📂 Project Structure
+## Project Structure
 
 supermarket-sales-analysis/
 ├── datasets/
