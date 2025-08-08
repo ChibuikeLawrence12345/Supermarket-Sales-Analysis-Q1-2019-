@@ -2,14 +2,14 @@
 
 This project analyzes supermarket sales data from January to March 2019 across three branches (A, B, and C).   I built an **interactive Power BI dashboard** to uncover key insights and recommend strategies to improve sales performance.
 
-
+---
 
 ##  Tools Used
 - **Excel**: Data Cleaning, PivotTables, Formatting
 - **Power BI**: Power Query, DAX, Interactive Dashboards
 - **Techniques**: Time Series Analysis, Customer Segmentation, Profitability Analysis
 
-
+---
 
 ## Project Structure
 
@@ -26,7 +26,7 @@ supermarket-sales-analysis/
 │ └── peak_hours_chart.png
 └── README.md
 
-
+---
 
 ## Business Questions
 
@@ -37,7 +37,7 @@ supermarket-sales-analysis/
 5. Which customer segment (member vs normal) drives the most sales?
 6. How can management use this insight to increase revenue?
 
-
+---
 
 ## Key Insights
 
@@ -47,7 +47,7 @@ supermarket-sales-analysis/
 - **Female customers and members** drive the majority of sales  
 - **February** saw a 5.9% drop in profit; **March** recovered by 3.8%
 
-
+---
 
 ## Recommendations
 
@@ -56,7 +56,7 @@ supermarket-sales-analysis/
 - **Customer Feedback**: Conduct surveys to better understand product preferences  
 - **Seasonal Planning**: Offer February incentives to offset typical profit dips
 
-
+---
 
 ## What I Learned
 
@@ -65,7 +65,7 @@ supermarket-sales-analysis/
 - Designing interactive dashboards for **business storytelling**  
 - Extracting actionable insights to guide marketing and operations decisions
 
-
+---
 
 ## Project Links
 
