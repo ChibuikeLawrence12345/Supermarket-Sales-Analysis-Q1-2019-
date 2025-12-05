@@ -32,6 +32,7 @@ Key Fields: Invoice ID, Branch, Gender, Product Line, Unit Price, Quantity, Tota
 
 ## Technical Implementation
 **Excel**: Data Cleaning & Formatting
+
 Removed duplicate rows and checked for inconsistencies.
 
 Ensured data types were correctly set for Dates, Times, and Currencies.
@@ -39,11 +40,13 @@ Ensured data types were correctly set for Dates, Times, and Currencies.
 Handled minor null values and corrected time stamps for accurate hourly analysis.
 
 **Power BI**: Data Transformation (Power Query)
+
 Reshaped the Time column to extract hourly values for peak hour analysis.
 
 Created new calculated columns to group and segment data by Month, Branch, Hour, and Product Line.
 
 **Power BI**: Data Modeling (DAX)
+
 Applied DAX to create dynamic KPIs and metrics for visual storytelling, including:
 
 Monthly Profit Growth/Decline percentage.
@@ -143,5 +146,7 @@ Based on the analysis, the following recommendations are made to management:
 
 ## Contact
 **Email** [lawchibuike12345@gmail.com]
+
 **LinkedIn** [https://www.linkedin.com/in/chibuike-lawrence-2348b01b6]
+
 **GitHub** [https://github.com/ChibuikeLawrence12345]
