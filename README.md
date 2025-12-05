@@ -1,13 +1,57 @@
 # Supermarket Sales Analysis Q1 2019
 
-This project analyzes supermarket sales data from January to March 2019 across three branches (A, B, and C).   I built an **interactive Power BI dashboard** to uncover key insights and recommend strategies to improve sales performance.
+## Project Goal
+To use sales transaction data to uncover key insights and provide actionable recommendations for optimizing sales performance and profitability across three supermarket branches (A, B, and C) during the first quarter of 2019.
+
+---
+
+## Introduction & Problem Statement
+This project explores three months (Jan–Mar 2019) of point-of-sale transaction data.
+
+The management team sought to answer crucial questions regarding product performance, customer behavior, and branch-specific improvements. The core challenge was transforming the raw data into an interactive dashboard to drive strategic business decisions, despite the limited three-month scope.
+
+---
+
+## Dataset Details
+Source: Simulated client data challenge (Downloaded from Kaggle)
+
+Rows: 1,001
+
+Columns: 17
+
+Key Fields: Invoice ID, Branch, Gender, Product Line, Unit Price, Quantity, Total, Date, Time, Payment Method, COGS, Gross Margin, Gross Income, Rating.
 
 ---
 
 ##  Tools Used
-- **Excel**: Data Cleaning, PivotTables, Formatting
+- **Excel**: Data Cleaning, Formatting
 - **Power BI**: Power Query, DAX, Interactive Dashboards
 - **Techniques**: Time Series Analysis, Customer Segmentation, Profitability Analysis
+
+---
+
+## Technical Implementation
+**Excel**: Data Cleaning & Formatting
+Removed duplicate rows and checked for inconsistencies.
+
+Ensured data types were correctly set for Dates, Times, and Currencies.
+
+Handled minor null values and corrected time stamps for accurate hourly analysis.
+
+**Power BI**: Data Transformation (Power Query)
+Reshaped the Time column to extract hourly values for peak hour analysis.
+
+Created new calculated columns to group and segment data by Month, Branch, Hour, and Product Line.
+
+**Power BI**: Data Modeling (DAX)
+Applied DAX to create dynamic KPIs and metrics for visual storytelling, including:
+
+Monthly Profit Growth/Decline percentage.
+
+Total Revenue, COGS, and Gross Income measures.
+
+**Dashboard Creation**
+Built an interactive Power BI dashboard featuring key analysis views.
 
 ---
 
@@ -39,22 +83,43 @@ supermarket-sales-analysis/
 
 ---
 
-## Key Insights
+## Key Findings & Business Insights
+1. **Product Performance & Profitability**
+The dataset comprises 6 unique Product Lines: Food & Beverages, Sports & Travel, Electronic Accessories, Fashion Accessories, Health & Beauty, and Home & Lifestyle.
 
-- **6 Product Lines**, with **Food & Beverages** being the most profitable overall  
-- **Branch A** excels in Home & Lifestyle; **Branch B** in Sports & Travel; **Branch C** in Food & Beverages  
-- **Peak sales** occur between **1 PM and 8 PM**  
-- **Female customers and members** drive the majority of sales  
-- **February** saw a 5.9% drop in profit; **March** recovered by 3.8%
+Food & Beverages generated the highest overall profit.
+
+Branch-Specific Top-Sellers:
+
+Branch A: Home & Lifestyle
+
+Branch B: Sports & Travel
+
+Branch C: Food & Beverages
+
+2. **Temporal Analysis (Sales Trends)**
+Peak Shopping Hours: Most purchases occurred in the afternoon/evening, specifically between 1:00 PM and 8:00 PM.
+
+Monthly Trend:
+
+February saw a significant 5.9% drop in profit compared to January.
+
+March showed a recovery with a 3.8% increase in profit over February.
+
+3. **Customer Segmentation**
+Majority Customers: Female customers and Members accounted for the largest volume of transactions.
 
 ---
 
-## Recommendations
+## Summary & Actionable Recommendations
+Based on the analysis, the following recommendations are made to management:
+**Localized Marketing**: Promote the branch-specific best-selling product lines (e.g., Home & Lifestyle in Branch A) to maximize local revenue streams.
 
-- **Branch-Specific Marketing**: Promote best-performing product lines in each branch  
-- **Peak Hour Focus**: Increase staffing and targeted promotions between 1–8 PM  
-- **Customer Feedback**: Conduct surveys to better understand product preferences  
-- **Seasonal Planning**: Offer February incentives to offset typical profit dips
+**Staff Scheduling Optimization**: Focus staffing, restocking, and promotions during the peak hours (1 PM – 8 PM) for improved customer service, reduced wait times, and higher conversion rates.
+
+**Seasonal Planning**: Proactively address the identified February sales slump by implementing loyalty incentives, targeted promotions, or bundling offers during that month.
+
+**Customer Feedback**: Conduct short, branch-specific surveys to gather qualitative data on the shopping experience, helping to refine product mix and service.
 
 ---
 
@@ -73,3 +138,10 @@ supermarket-sales-analysis/
 )  
 - [Excel Data File](https://1drv.ms/x/c/e1781590a66dcd43/EW0huXw_s9dNntqoIoGSEXcBiV9FotwW8QvDIXOCrTCKgw?e=eWXYWj&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)    
 - [Visuals/Charts](https://drive.google.com/drive/folders/1NdGgWc8J6n9fVjZZmmMhK7lARYIoeWqA?usp=drive_link)
+
+---
+
+## Contact
+**Email** [lawchibuike12345@gmail.com]
+**LinkedIn** [https://www.linkedin.com/in/chibuike-lawrence-2348b01b6]
+**GitHub** [https://github.com/ChibuikeLawrence12345]
