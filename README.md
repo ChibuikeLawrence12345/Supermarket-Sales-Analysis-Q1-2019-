@@ -117,6 +117,7 @@ Majority Customers: Female customers and Members accounted for the largest volum
 
 ## Summary & Actionable Recommendations
 Based on the analysis, the following recommendations are made to management:
+
 **Localized Marketing**: Promote the branch-specific best-selling product lines (e.g., Home & Lifestyle in Branch A) to maximize local revenue streams.
 
 **Staff Scheduling Optimization**: Focus staffing, restocking, and promotions during the peak hours (1 PM – 8 PM) for improved customer service, reduced wait times, and higher conversion rates.
