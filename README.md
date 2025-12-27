@@ -104,6 +104,7 @@ Each branch has a unique top-performing product line: Branch A is led by Home & 
 Food & Beverages generated the highest overall profit.
 
 6. **The Power of ATV**: Branch Insights
+
 Branch A (Balanced Consumption): ATV is consistent across all payment types, indicating a general-purpose shopping behavior where no single payment group outspends the others.
 
 Branch B (The "Big Spender" Hub): Credit Card users show the highest ATV despite lower transaction frequency, confirming that "high-ticket" purchases (like Sports & Travel) are tied to credit use.
@@ -126,6 +127,7 @@ Based on the analysis, the following recommendations are made to management:
 **Seasonal Slump Mitigation**: Launch aggressive "February-Only" bundling offers or loyalty incentives to counteract the identified mid-quarter dip in profit.
 
 **ATV-Driven Upselling**: Branch specific
+
 Branch A (Volume Growth): Since spending is balanced, implement "Multi-Buy" promotions (e.g., Buy 3 Get 1 Free) to increase the average basket size across the entire branch.
 
 Branch B (Premium Upselling): Leverage the high-spend credit demographic by bundling premium accessories with the top-performing Sports & Travel gear to push the ATV ceiling higher.
