@@ -136,7 +136,7 @@ Branch C (Impulse Merchandising): To raise the lower ATV, place high-margin "add
 
 ---
 
-## What I Learned
+## Skills Demonstrated
 
 - Data cleaning and transformation in **Excel** and **Power Query**  
 - Building dynamic KPIs using **DAX** in Power BI  
