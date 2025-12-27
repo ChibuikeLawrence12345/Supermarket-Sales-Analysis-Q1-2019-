@@ -51,7 +51,7 @@ Applied DAX to create dynamic KPIs and metrics for visual storytelling, includin
 
 Monthly Profit Growth/Decline percentage.
 
-Total Revenue, COGS, and Gross Income measures.
+Total Revenue, Average Transaction Value-ATV, and Gross Income measures.
 
 - **Dashboard Creation**
 
@@ -78,53 +78,59 @@ supermarket-sales-analysis/
 
 ## Business Questions
 
-1. Which product lines are most profitable?
-2. What is the monthly sales trend in Q1?
-3. When are peak shopping hours?
-4. Which branches excel in specific product categories?
-5. Which customer segment (member vs normal) drives the most sales?
-6. How can management use this insight to increase revenue?
-
+1. **Product Performance**: What are the unique product lines, and how do they perform in terms of sales and profit across the three branches?
+2. **Sales Trends**: What are the monthly sales trends for Q1, and how did profitability fluctuate between January and March?
+3. **Peak Hours**: At what times of the day does the supermarket experience the highest volume of transactions?
+4. **Profitability vs Satisfaction**: Which product lines are the most profitable, and how does their profitability correlate with their average customer ratings?
+5. **Untapped Potential**: Are there specific categories—like Sports & Travel—that have low satisfaction scores but high profit, indicating a major opportunity for growth?
+6. **Branch Payment Profiles**: How do payment preferences (Cash, Ewallet, Credit Card) differ across Branch A, B, and C, and what does this tell us about local customer behavior?
+7. **Transaction Value**: What is the Average Transaction Value (ATV) for each payment method, and which method brings in the highest spend per visit?
+8. **Customer Segmentation**: Who are our primary customers in terms of gender and membership status?
+9. **Actionable Strategy**: Based on these findings, what specific operational changes can be made to improve staffing, marketing, and inventory management?
+    
 ---
 
 ## Key Findings & Business Insights
-1. **Product Performance & Profitability**
-The dataset comprises 6 unique Product Lines: Food & Beverages, Sports & Travel, Electronic Accessories, Fashion Accessories, Health & Beauty, and Home & Lifestyle.
+1. **Branch-Specific Profit Leaders**: The dataset comprises 6 unique Product Lines: Food & Beverages, Sports & Travel, Electronic Accessories, Fashion Accessories, Health & Beauty, and Home & Lifestyle.
+Each branch has a unique top-performing product line: Branch A is led by Home & Lifestyle, Branch B by Sports & Travel, and Branch C by Food & Beverages.
 
+2. **High Profit, Low Satisfaction**: Sports & Travel and Electronic Accessories are the 2nd and 3rd most profitable lines despite having the lowest satisfaction ratings (~6.92); closing the quality gap to match Food & Beverages (7.11) could unlock enough growth to make them the store's overall profit leaders.
+
+3. **Localized Payment Cultures**: Branch B is a hub for high-value Credit Card transactions, and Branch C is dominated by Ewallet users, while Branch A shows a perfectly balanced demand across all payment types.
+
+4. **Peak Performance Window**: Most sales activity and customer volume occur consistently during the afternoon and evening hours between 1:00 PM and 8:00 PM.
+
+5. **Sales Volatility**: Profitability dropped by 5.9% in February but showed a healthy recovery of 3.8% in March.
 Food & Beverages generated the highest overall profit.
 
-Branch-Specific Top-Sellers:
+6. **The Power of ATV**: Branch Insights
+Branch A (Balanced Consumption): ATV is consistent across all payment types, indicating a general-purpose shopping behavior where no single payment group outspends the others.
 
-Branch A: Home & Lifestyle
+Branch B (The "Big Spender" Hub): Credit Card users show the highest ATV despite lower transaction frequency, confirming that "high-ticket" purchases (like Sports & Travel) are tied to credit use.
 
-Branch B: Sports & Travel
-
-Branch C: Food & Beverages
-
-2. **Temporal Analysis (Sales Trends)**
-Peak Shopping Hours: Most purchases occurred in the afternoon/evening, specifically between 1:00 PM and 8:00 PM.
-
-Monthly Trend:
-
-February saw a significant 5.9% drop in profit compared to January.
-
-March showed a recovery with a 3.8% increase in profit over February.
-
-3. **Customer Segmentation**
-Majority Customers: Female customers and Members accounted for the largest volume of transactions.
+Branch C (The "High-Frequency" Hub): Lower ATV paired with high volume in Ewallet/Cash reveals a customer base focused on frequent, smaller "daily necessity" trips (primarily Food & Beverages).
 
 ---
 
 ## Summary & Actionable Recommendations
 Based on the analysis, the following recommendations are made to management:
 
-**Localized Marketing**: Promote the branch-specific best-selling product lines (e.g., Home & Lifestyle in Branch A) to maximize local revenue streams.
+**Localized Inventory & Marketing**: Tailor promotional displays and stock levels to match branch strengths (e.g., Home & Lifestyle in Branch A) to maximize revenue where demand is already highest.
 
-**Staff Scheduling Optimization**: Focus staffing, restocking, and promotions during the peak hours (1 PM – 8 PM) for improved customer service, reduced wait times, and higher conversion rates.
+**Targeted Quality Audits**: Perform deep-dive reviews of top-selling items in Sports and Electronics to resolve friction points, as converting current dissatisfaction into loyalty is the fastest path to exceeding current profit ceilings.
 
-**Seasonal Planning**: Proactively address the identified February sales slump by implementing loyalty incentives, targeted promotions, or bundling offers during that month.
+**Branch-Specific Checkout Optimization**: Tailor lane configurations by branch: deploy Ewallet-only express lanes in Branch C to accelerate digital volume, introduce Priority Member lanes in Branch B to enhance the experience for high-spend Credit Card users, and maintain Flexible Universal lanes in Branch A to prevent bottlenecks across its evenly split payment methods.
 
-**Customer Feedback**: Conduct short, branch-specific surveys to gather qualitative data on the shopping experience, helping to refine product mix and service.
+**Optimized Staffing**: Shift more staff and restocking activities to the 1:00 PM – 8:00 PM window to improve customer service and conversion rates during peak traffic.
+
+**Seasonal Slump Mitigation**: Launch aggressive "February-Only" bundling offers or loyalty incentives to counteract the identified mid-quarter dip in profit.
+
+**ATV-Driven Upselling**: Branch specific
+Branch A (Volume Growth): Since spending is balanced, implement "Multi-Buy" promotions (e.g., Buy 3 Get 1 Free) to increase the average basket size across the entire branch.
+
+Branch B (Premium Upselling): Leverage the high-spend credit demographic by bundling premium accessories with the top-performing Sports & Travel gear to push the ATV ceiling higher.
+
+Branch C (Impulse Merchandising): To raise the lower ATV, place high-margin "add-ons" (batteries, snacks, or small travel items) near Ewallet-heavy registers to encourage "basket-building" during quick daily runs.
 
 ---
 
