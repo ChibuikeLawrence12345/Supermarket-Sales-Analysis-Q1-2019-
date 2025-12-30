@@ -155,6 +155,8 @@ Branch C (Impulse Merchandising): To raise the lower ATV, place high-margin "add
 ---
 
 ## Contact
+**Name** : Chibuike Lawrence
+
 **Email** [lawchibuike12345@gmail.com]
 
 **LinkedIn** [https://www.linkedin.com/in/chibuike-lawrence-2348b01b6]
