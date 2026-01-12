@@ -6,7 +6,7 @@ To use sales transaction data to uncover key insights and provide actionable rec
 ---
 
 ## Introduction & Problem Statement
-This project explores three months (Jan–Mar 2019) of point-of-sale transaction data.
+This project explores three months (January–March 2019) of point-of-sale transaction data.
 
 The management team sought to answer crucial questions regarding product performance, customer behavior, and branch-specific improvements. The core challenge was transforming the raw data into an interactive dashboard to drive strategic business decisions, despite the limited three-month scope.
 
@@ -82,7 +82,7 @@ supermarket-sales-analysis/
 2. **Sales Trends**: What are the monthly sales trends for Q1, and how did profitability fluctuate between January and March?
 3. **Peak Hours**: At what times of the day does the supermarket experience the highest volume of transactions?
 4. **Profitability vs Satisfaction**: Which product lines are the most profitable, and how does their profitability correlate with their average customer ratings?
-5. **Untapped Potential**: Are there specific categories—like Sports & Travel—that have low satisfaction scores but high profit, indicating a major opportunity for growth?
+5. **Untapped Potential**: Are there specific categories that have low satisfaction scores but high profit, indicating a major opportunity for growth?
 6. **Branch Payment Profiles**: How do payment preferences (Cash, Ewallet, Credit Card) differ across Branch A, B, and C, and what does this tell us about local customer behavior?
 7. **Transaction Value**: What is the Average Transaction Value (ATV) for each payment method, and which method brings in the highest spend per visit?
 8. **Customer Segmentation**: Who are our primary customers in terms of gender and membership status?
