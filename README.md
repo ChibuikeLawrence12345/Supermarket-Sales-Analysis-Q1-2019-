@@ -61,6 +61,9 @@ Built an interactive Power BI dashboard featuring key analysis views.
 
 ## Project Structure
 
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
 supermarket-sales-analysis/
 ├── datasets/
 │ └── supermarket_sales_Q1_2019.csv
@@ -73,6 +76,9 @@ supermarket-sales-analysis/
 │ ├── monthly_sales_trend.png
 │ └── peak_hours_chart.png
 └── README.md
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
 ---
 
